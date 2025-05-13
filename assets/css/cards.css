@@ -1,7 +1,7 @@
 .cards-container {
     margin-top: 30px;
     display: flex;
-    gap: 30px;
+    gap: 45px;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
@@ -15,7 +15,7 @@
 }
 
 .card:hover {
-    scale: 102%;
+    scale: 105%;
     transition: 0.5s;
 }
 

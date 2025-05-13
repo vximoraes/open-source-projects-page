@@ -1,0 +1,12 @@
+header {
+    background: linear-gradient(rgba(17, 18, 19, 0.829), rgba(17, 18, 19, 0.897)), url(../images/pexels-markus-winkler-1430818-4584830\ 1.png) no-repeat center/cover;
+}
+
+header h1 {
+    padding: 100px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.932);
+}

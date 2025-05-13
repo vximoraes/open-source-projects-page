@@ -1,0 +1,11 @@
+.buscar {
+    height: 30px;
+    width: 500px;
+    font-size: 16px;
+    padding: 5px 40px 5px 10px;
+    border-radius: 10px;
+    background: url('../images/Frame.png') no-repeat right center; 
+    border: 2px solid #d3d3d3;
+    background-size: 20px;
+    background-position: right 10px center;
+}

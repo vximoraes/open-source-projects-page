@@ -9,4 +9,5 @@ header h1 {
     text-align: center;
     font-size: 40px;
     color: rgba(255, 255, 255, 0.932);
+    margin-bottom: 10px;
 }
